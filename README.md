@@ -89,10 +89,5 @@ Run `npm run dev` and you'll see:
 - `npm run build` - Prepare the code for production
 - `npm start` - Run the built version
 
-## Want to help improve it?
-
-1. Fork this repository
-2. Make your changes
-3. Send a pull request
 
 That's it! This is a learning project to understand TypeScript and object-oriented programming.
